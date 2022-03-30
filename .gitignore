@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+.python-version
+
+choices.txt
+choices-discarded.txt
+Resume-Builder.txt
