@@ -2,6 +2,9 @@
 __pycache__/
 .python-version
 
+positions/
+
 choices.txt
 choices-discarded.txt
 Resume-Builder.txt
+positions.py
