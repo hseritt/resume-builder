@@ -3,6 +3,7 @@ __pycache__/
 .python-version
 
 positions/
+private/
 
 choices.txt
 choices-discarded.txt
